@@ -24,6 +24,6 @@
 
 </div><br/>
 
-### Apaixonado por tecnologia, e por mudar a vida das pessoas através da preogramação.
+### Apaixonado por tecnologia, e por mudar a vida das pessoas através da programação.
 
 
