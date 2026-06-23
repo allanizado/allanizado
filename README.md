@@ -11,7 +11,7 @@ Desenvolvedor em evolução, com foco em criar soluções web úteis, interfaces
 ![Allan Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allanizado&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&locale=pt-br&custom_title=Allan%20Azevedo%20-%20GitHub%20Stats)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allanizado&layout=compact&theme=tokyonight&locale=pt-br)
 
-- Commits públicos identificados: **10**.
+- Commits em junho de 2026: **56** em **4 repositórios**.
 - Repositórios públicos: **6**.
 - Pull requests públicos: **0**.
 - Issues públicas: **0**.
@@ -52,7 +52,7 @@ Desenvolvedor em evolução, com foco em criar soluções web úteis, interfaces
 - Último push público identificado: `allanizado/allanizado`, em 23/06/2026.
 - Commit recente: `Update social media links in README.md`.
 - Linguagem mais ativa em repositórios com código detectado: TypeScript, seguida por JavaScript, HTML e CSS.
-- Estatísticas públicas revisadas em 23/06/2026: 10 commits, 6 repositórios, 0 PRs, 0 issues, 0 estrelas e 0 forks.
+- Atividade de junho de 2026: 56 commits em 4 repositórios, com maior volume em `Volt-Talent/c4t-conecta`, `allanizado/premiumclub`, `allanizado/allanizado` e `Volt-Talent/frontend-vt-conecta`.
 
 ## Objetivo
 
