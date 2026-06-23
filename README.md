@@ -6,7 +6,17 @@ Desenvolvedor em evolução, com foco em criar soluções web úteis, interfaces
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-souto/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521998882556)
 
-![Allan Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allanizado&show_icons=true&theme=tokyonight)
+## GitHub em números
+
+![Allan Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allanizado&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&locale=pt-br&custom_title=Allan%20Azevedo%20-%20GitHub%20Stats)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allanizado&layout=compact&theme=tokyonight&locale=pt-br)
+
+- Commits públicos identificados: **10**.
+- Repositórios públicos: **6**.
+- Pull requests públicos: **0**.
+- Issues públicas: **0**.
+- Estrelas recebidas em repositórios públicos: **0**.
+- Forks em repositórios públicos: **0**.
 
 ## Foco atual
 
@@ -39,12 +49,13 @@ Desenvolvedor em evolução, com foco em criar soluções web úteis, interfaces
 
 ## Atividade recente observada
 
-- Último push público identificado: `allanizado/allanizado`, em 15/06/2026.
+- Último push público identificado: `allanizado/allanizado`, em 23/06/2026.
 - Commit recente: `Update social media links in README.md`.
 - Linguagem mais ativa em repositórios com código detectado: TypeScript, seguida por JavaScript, HTML e CSS.
+- Estatísticas públicas revisadas em 23/06/2026: 10 commits, 6 repositórios, 0 PRs, 0 issues, 0 estrelas e 0 forks.
 
 ## Objetivo
 
 Continuar evoluindo como desenvolvedor, criando aplicações cada vez mais completas, bem organizadas e úteis para pessoas e negócios.
 
-_README atualizado em 22/06/2026._
+_README atualizado em 23/06/2026._
