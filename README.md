@@ -8,8 +8,7 @@ Desenvolvedor em evolução, com foco em criar aplicações web úteis, interfac
 
 ## GitHub em números
 
-![Allan Azevedo GitHub stats](https://github-readme-stats.vercel.app/api?username=allanizado&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&locale=pt-br&custom_title=Allan%20Azevedo%20-%20GitHub%20Stats)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=allanizado&layout=compact&theme=tokyonight&locale=pt-br)
+[Perfil no GitHub](https://github.com/allanizado) · [Repositórios públicos](https://github.com/allanizado?tab=repositories)
 
 - Repositórios públicos: **6**.
 - Pull requests públicos encontrados: **0**.
